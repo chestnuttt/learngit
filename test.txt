@@ -1,1 +1,1 @@
-hello + dev && haha master
+hello + dev && haha both
